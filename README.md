@@ -1,26 +1,49 @@
-# IoT Laboratory
+# 🌐 IoT Laboratory – ESP32 & Embedded Systems
 
-This repository contains IoT laboratory experiments using ESP32 and Node-RED.
+This repository contains structured IoT experiments using ESP32, MQTT, HTTP, WebSocket, Node-RED, and embedded systems development.
 
-## Experiments
+The project is designed for:
+- IoT learning
+- Embedded systems practice
+- Academic laboratory teaching
+- Research and portfolio development
 
-1. Solar Monitoring
-2. Communication Protocols
-   - HTTP
-   - MQTT
-   - WebSocket
-3. Motor Control
-4. Advanced Motor Control
+---
 
-## Hardware
+## 🔬 Experiment Areas
 
-- ESP32
-- Sensors
-- DC Motors
-- Node-RED
+### 1. Solar Monitoring System
+- Sensor-based energy monitoring
+- Data acquisition and visualization
 
-## Software
+### 2. Communication Protocols
+- HTTP (Web Server on ESP32)
+- MQTT (Publish/Subscribe model)
+- WebSocket (Real-time communication)
 
-- Arduino IDE
-- Node-RED
-- MQTT Broker
+### 3. Motor Control Systems
+- DC motor control using ESP32
+- PWM-based speed control
+
+### 4. Advanced Motor Systems
+- Sensor feedback control
+- Closed-loop control systems
+
+---
+
+## 🧰 Technologies Used
+- ESP32 (Arduino Framework / PlatformIO)
+- MQTT Broker (Mosquitto)
+- Node-RED Dashboard
+- HTTP REST API
+- WebSocket Communication
+
+---
+
+## 👨‍🔬 Author
+Mechatronics Engineering Research & Teaching Project
+
+---
+
+## 🚀 Goal
+To develop a complete IoT learning and research platform for academic and industrial applications.
